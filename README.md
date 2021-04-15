@@ -1,8 +1,7 @@
 ---
 description: >-
-  Use it to review and organize any information that the team or any external
-  party need to find and reference easily regarding the first Minimum Viable
-  Product features, like Creative’s Platform
+  A creative blockchain platform for independent creators, fans, and brands to
+  exchange services directly and earn incentives through DeFi
 ---
 
 # Creative Platform Documentation
