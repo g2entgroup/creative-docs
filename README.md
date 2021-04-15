@@ -10,7 +10,7 @@ description: >-
 
 [Assumptions](./#assumptions)
 
-[The business model](./#the-business-model)
+[The Business Model](./#the-business-model)
 
 [Features/Requirements](./#features-requirements)
 
@@ -20,13 +20,13 @@ description: >-
 * [2. Review 📏](./#2-review)
 * [3. Iteration 🔧](./#3-iteration)
 
-[Outline and time estimation](./#outline-and-time-estimation)
+[Outline and Time Estimation](./#outline-and-time-estimation)
 
 * [1. UX Design](./#1-ux-design)
 * [2. UI Design](./#2-ui-design)
 * [3. Coding](./#3-coding)
 
-[Further information](./#further-information)
+[Further Information](./#further-information)
 
 ## Description
 
