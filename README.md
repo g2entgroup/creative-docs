@@ -38,7 +38,7 @@ The POC that encloses this MVP starts with a **design**. In this design the team
 
 ## Assumptions
 
-This building process is based on the [Creative Whitepaper](untitled.md) which describes the general vision. In our vision, we want to build a working product that assumes the following:
+This building process is based on the [Creative Whitepaper](whitepaper-1/whitepaper.md) which describes the general vision. In our vision, we want to build a working product that assumes the following:
 
 * **Who will be the users?** 
 

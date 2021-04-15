@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Creative Platform Documentation](README.md)
-* [Creative Platform Whitepaper](untitled.md)
 * [Overview and Quick Start](untitled-5.md)
 * [Credentials, integrations, procedures and Blockchain Flowcharts](untitled-1.md)
 * [Meetings](untitled-2.md)
@@ -30,4 +29,8 @@
 * [🏆 Prize Strategy](contracts/prize-strategy.md)
 * [💰 Lootbox](contracts/lootbox.md)
 * [🐥 Chainlink Verification](contracts/untitled.md)
+
+## WhitePaper <a id="whitepaper-1"></a>
+
+* [Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
 
