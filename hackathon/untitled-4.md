@@ -6,7 +6,7 @@
 
 We consider Polygon's L2 solution to be the best solution for high gas and optimal performance. We have considered the following platforms as providers of analytics for the information we deal with:
 
-1. Polygon
+1. [Polygon](https://polygon.technology/)
 
 
 
@@ -14,7 +14,7 @@ We consider Polygon's L2 solution to be the best solution for high gas and optim
 
 Infrastructure to provide royalties to NFT holders and CRTVO token holders. We have considered the following protocols as providers of royalty streaming:
 
-1. SuperFluid
+1. [SuperFluid](https://www.superfluid.finance/)
 
 
 
@@ -22,5 +22,5 @@ Infrastructure to provide royalties to NFT holders and CRTVO token holders. We h
 
 To showcase Creative NFTs in other marketplaces outside our platform. We have considered the following platforms as providers of mass marketplace distribution:
 
-1. Rarible
+1. [Rarible](https://rarible.com/)
 
