@@ -2,7 +2,7 @@
 description: This is the last revised Whitepaper of the Creative Platform!
 ---
 
-# Creative Platform Whitepaper
+# 📄 Creative Platform Whitepaper
 
 Use it to **create you own awareness of the proposal**, it explains the main features, challenges and important information in general.
 

@@ -1,6 +1,4 @@
-# ETHGlobal Scaling Hackathon
-
-If you are here, the MVP is part of the past.![\(blue star\)](../.gitbook/assets/0%20%286%29.png) It’s time to get serious about this.
+# 🎊 Scaling Hackathon
 
 ## Next Integrations
 

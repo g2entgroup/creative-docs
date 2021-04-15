@@ -10,11 +10,11 @@
 
 ## WhitePaper <a id="whitepaper-1"></a>
 
-* [Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
+* [📄 Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
 
 ## Hackathon
 
-* [ETHGlobal Scaling Hackathon](hackathon/untitled-4.md)
+* [🎊 Scaling Hackathon](hackathon/untitled-4.md)
 
 ## UI
 
