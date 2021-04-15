@@ -8,19 +8,18 @@
 * [Business Brain-storming](business-brainstorming.md)
 * [Roadmap](roadmap.md)
 
-## UI
+## WhitePaper <a id="whitepaper-1"></a>
 
-* [UI Mock Ups](ui/untitled-3.md)
-* [Frontend](ui/untitled-7.md)
+* [Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
 
 ## Hackathon
 
 * [ETHGlobal Scaling Hackathon](hackathon/untitled-4.md)
 
-## Governance
+## UI
 
-* [⚖ Community DAO](governance/community-dao.md)
-* [👛 CRTVO Tokenomics](governance/tokenomics.md)
+* [UI Mock Ups](ui/untitled-3.md)
+* [Frontend](ui/untitled-7.md)
 
 ## Contracts
 
@@ -30,7 +29,8 @@
 * [💰 Lootbox](contracts/lootbox.md)
 * [🐥 Chainlink Verification](contracts/untitled.md)
 
-## WhitePaper <a id="whitepaper-1"></a>
+## Governance
 
-* [Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
+* [⚖ Community DAO](governance/community-dao.md)
+* [👛 CRTVO Tokenomics](governance/tokenomics.md)
 
