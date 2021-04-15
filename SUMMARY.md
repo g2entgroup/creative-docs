@@ -14,7 +14,7 @@
 
 ## Hackathon
 
-* [🎊 Scaling Hackathon](hackathon/untitled-4.md)
+* [🏗 Scaling Hackathon](hackathon/untitled-4.md)
 
 ## UI
 

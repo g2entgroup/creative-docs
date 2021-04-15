@@ -1,4 +1,4 @@
-# 🎊 Scaling Hackathon
+# 🏗 Scaling Hackathon
 
 ## Next Integrations
 
