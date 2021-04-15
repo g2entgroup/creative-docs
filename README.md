@@ -1,7 +1,7 @@
 ---
 description: >-
   A creative blockchain platform for independent creators, fans, and brands to
-  exchange services directly and earn incentives through DeFi
+  exchange services directly and earn incentives through DeFi.
 ---
 
 # Creative Platform Documentation
