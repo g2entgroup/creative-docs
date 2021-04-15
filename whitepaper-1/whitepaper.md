@@ -1,44 +1,10 @@
 ---
-description: This is the last revised Whitepaper of the Creative Platform!
+description: This is the last revised White paper of the Creative Platform!
 ---
 
-# 📄 Creative Platform Whitepaper
+# 📄 Creative Platform WhitePaper
 
-Use it to **create you own awareness of the proposal**, it explains the main features, challenges and important information in general.
-
-### Featured Pages
-
-* Page:
-
-[Getting started](file:///C:/wiki/spaces/CPW/pages/524424/Getting+started)
-
-* Page:
-
-[Making a template](file:///C:/wiki/spaces/CPW/pages/524427/Making+a+template)
-
-### Recently Updated
-
-* [Creative Platform Whitepaper](file:///C:/wiki/spaces/CPW/overview)
-
-Mar 15, 2021 • contributed by [Nicolás Guasca Santamaría](file:///C:/wiki/display/~5ed663f26d27410c1e2cd47c)
-
-* [Making a template](file:///C:/wiki/spaces/CPW/pages/524427/Making+a+template)
-
-Feb 17, 2021 • contributed by [Gawain Bracy II](file:///C:/wiki/display/~557058:70d4bf21-a75d-4b13-bab2-16af0bc00d53)
-
-* [Getting started](file:///C:/wiki/spaces/CPW/pages/524424/Getting+started)
-
-Feb 17, 2021 • contributed by [Gawain Bracy II](file:///C:/wiki/display/~557058:70d4bf21-a75d-4b13-bab2-16af0bc00d53)
-
-**NEED INSPIRATION?**
-
-Check out our guide on [building better documentation](https://www.atlassian.com/software/confluence/documentation) to learn best practices for creating and organizing documents in Confluence.
-
-Gawain Bracy II and Nicolás Guasca
-
-‌
-
-**Last Update: March 10, 2021, \***
+‌**Last Update: March 10, 2021, \***
 
 ‌
 
@@ -62,135 +28,135 @@ Gawain Bracy II and Nicolás Guasca
 
 ‌
 
-\*\*\*\*[**Abstract** 1](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#abstract)
+[\*\*\*\***Abstract** 1](whitepaper.md#abstract)
 
 ‌
 
-[Introduction](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#introduction)
+[**Introduction**](whitepaper.md#introduction)\*\*\*\*
 
 ‌
 
-[**Current Pain Points**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#current-pain-points)
+\*\*\*\*[**Current Pain Points**](whitepaper.md#current-pain-points)\*\*\*\*
 
 ‌
 
-[**THE CREATIVE Project**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#the-creative-project)
+\*\*\*\*[**THE CREATIVE Project**](whitepaper.md#the-creative-platform)\*\*\*\*
 
 ‌
 
-[**Token Model**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#token-model)
+\*\*\*\*[**Token Model**](whitepaper.md#token-model)\*\*\*\*
 
 ‌
 
-[**THE CREATIVE \(CRTV\) Token**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#the-creative-crtv-token)
+\*\*\*\*[**THE CREATIVE \(CRTV\) Token**](whitepaper.md#the-creative-crtv-token)\*\*\*\*
 
 ‌
 
-[**THE CREATIVE Token Distribution**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#the-creative-token-distribution)
+\*\*\*\*[**THE CREATIVE Token Distribution**](whitepaper.md#the-creative-token-distribution)\*\*\*\*
 
 ‌
 
-[**Stable Coin Payments**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#stable-coin-payments)
+\*\*\*\*[**Stable Coin Payments**](whitepaper.md#stable-coin-payments)\*\*\*\*
 
 ‌
 
-[**Why Create a New Token?**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#why-create-a-new-token)
+\*\*\*\*[**Why Create a New Token?**](whitepaper.md#why-create-a-new-token)\*\*\*\*
 
 ‌
 
-[**Content Node**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#content-node)
+\*\*\*\*[**Content Node**](whitepaper.md#content-node)\*\*\*\*
 
 ‌
 
-[**CreativeSP Protocol: Decentralized Storage Protocol**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#creativesp-protocol-decentralized-storage-protocol)
+\*\*\*\*[**CreativeSP Protocol: Decentralized Storage Protocol**](whitepaper.md#creativesp-protocol-decentralized-storage-protocol)\*\*\*\*
 
 ‌
 
-[**Uploads**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#uploads)
+\*\*\*\*[**Uploads**](whitepaper.md#uploads)\*\*\*\*
 
 ‌
 
-[**Content Permission**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#content-permission)
+\*\*\*\*[**Content Permission**](whitepaper.md#content-permission)\*\*\*\*
 
 ‌
 
-[**Proxy Re-encryption**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#proxy-re-encryption)
+\*\*\*\*[**Proxy Re-encryption**](whitepaper.md#proxy-re-encryption)\*\*\*\*
 
 ‌
 
-[**Unlock Conditions**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#unlock-conditions)
+\*\*\*\*[**Unlock Conditions**](whitepaper.md#unlock-conditions)\*\*\*\*
 
 ‌
 
-[**Content Ledger**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#content-ledger)
+\*\*\*\*[**Content Ledger**](whitepaper.md#content-ledger)\*\*\*\*
 
 ‌
 
-[**Node Registry**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#node-registry)
+\*\*\*\*[**Node Registry**](whitepaper.md#node-registry)\*\*\*\*
 
 ‌
 
-[**Social Features and Brand Feed**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#social-features-and-brand-feed)
+\*\*\*\*[**Social Features and Brand Feed**](whitepaper.md#social-features-and-brand-feed)\*\*\*\*
 
 ‌
 
-[**Tokens and Governance**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#tokens-and-governance)
+\*\*\*\*[**Tokens and Governance**](whitepaper.md#tokens-and-governance)\*\*\*\*
 
 ‌
 
-[**Discovery Node**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#discovery-node)
+\*\*\*\*[**Discovery Node**](whitepaper.md#discovery-node)\*\*\*\*
 
 ‌
 
-[**Discovery API Interfaces**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#discovery-node)
+\*\*\*\*[**Discovery API Interfaces**](whitepaper.md#discovery-api-interfaces)\*\*\*\*
 
 ‌
 
-[**Future Work**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#future-work)
+\*\*\*\*[**Future Work**](whitepaper.md#future-work)\*\*\*\*
 
 ‌
 
-[**Governance**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#governance)
+\*\*\*\*[**Governance**](whitepaper.md#governance)\*\*\*\*
 
 ‌
 
-[**Short-circuiting**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#short-circuiting)
+\*\*\*\*[**Short-circuiting**](whitepaper.md#short-circuiting)\*\*\*\*
 
 ‌
 
-[**Enforcing Node Response Accuracy**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#enforcing-node-response-accuracy)
+\*\*\*\*[**Enforcing Node Response Accuracy**](whitepaper.md#enforcing-node-response-accuracy)\*\*\*\*
 
 ‌
 
-[**The Creative ICO**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#the-creative-ico)
+\*\*\*\*[**The Creative ICO**](whitepaper.md#the-creative-ico)\*\*\*\*
 
 ‌
 
-[**ICO Distribution of Funds**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#ico-distribution-of-funds)
+\*\*\*\*[**ICO Distribution of Funds**](whitepaper.md#ico-distribution-of-funds)\*\*\*\*
 
 ‌
 
-[**ICO CrowdSale Bonus Schedule**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#ico-crowdsale-bonus-schedule)
+\*\*\*\*[**ICO CrowdSale Bonus Schedule**](whitepaper.md#ico-crowdsale-bonus-schedule)\*\*\*\*
 
 ‌
 
-[**History and Roadmap**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#history-and-roadmap)
+\*\*\*\*[**History and Roadmap**](whitepaper.md#history-and-roadmap)\*\*\*\*
 
 ‌
 
-[**Genesis \(12/21/2020\)**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#genesis-12-21-2020)
+\*\*\*\*[**Genesis \(12/21/2020\)**](whitepaper.md#genesis-12-21-2020)\*\*\*\*
 
 ‌
 
-[**Glossary of Terms**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#glossary-of-terms)
+\*\*\*\*[**Glossary of Terms**](whitepaper.md#glossary-of-terms)\*\*\*\*
 
 ‌
 
-[**References**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#references)
+\*\*\*\*[**References**](whitepaper.md#references)\*\*\*\*
 
 ‌
 
-[**Legal Considerations, Risks, and Disclaimer**](file:///C:/@creative-platform/s/the-creative-platform/~/drafts/-MTkKE1mDAPr58RtlmCY/#legal-considerations-risks-and-disclaimer)
+\*\*\*\*[**Legal Considerations, Risks, and Disclaimer**](whitepaper.md#legal-considerations-risks-and-disclaimer)\*\*\*\*
 
 ‌
 

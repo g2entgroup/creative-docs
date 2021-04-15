@@ -10,7 +10,7 @@
 
 ## WhitePaper <a id="whitepaper-1"></a>
 
-* [📄 Creative Platform Whitepaper](whitepaper-1/whitepaper.md)
+* [📄 Creative Platform WhitePaper](whitepaper-1/whitepaper.md)
 
 ## Hackathon
 
