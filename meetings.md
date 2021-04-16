@@ -1,6 +1,6 @@
-# Meetings
+# Community Calls
 
-Date/time: 10am EST and 10pm EST
+Date/time: Monday, 10am EST and 10pm EST
 
 Attendees: Developers
 
