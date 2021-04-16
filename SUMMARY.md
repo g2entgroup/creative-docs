@@ -42,4 +42,5 @@
 ## Sercurity
 
 * [Risks](sercurity/risks.md)
+* [Audits & Testing](sercurity/audits-and-testing.md)
 
