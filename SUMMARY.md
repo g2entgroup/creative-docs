@@ -18,7 +18,7 @@
 
 ## UI
 
-* [UI Mock Ups](ui/untitled-3.md)
+* [UI Mock Ups](ui/mock-ups.md)
 * [Frontend](ui/untitled-7.md)
 
 ## Contracts
