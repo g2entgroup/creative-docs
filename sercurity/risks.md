@@ -4,6 +4,8 @@ Using the protocol includes substantial risks of losing some or all of your fund
 
 This section will help you understand the types of risk you are taking what has been done to mitigate them and how to mitigate them further. 
 
+### Protocol Dependency Risk <a id="a908"></a>
+
 The Creative Protocol uses several other protocols. Therefore, the first type of risk is the risk that these other integrated protocols can fail.
 
 Specifically by using Creative you are also taking on the risks of using the Ethereum network, the collateral you are depositing, and the yield service \(currently Compound.Finance\).
