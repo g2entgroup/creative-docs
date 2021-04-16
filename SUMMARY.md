@@ -37,5 +37,5 @@
 
 ## Contributing
 
-* [Smart Contract Guidlines](contributing/smart-contract-guidlines.md)
+* [📐 Smart Contract Guidelines](contributing/smart-contract-guidlines.md)
 
