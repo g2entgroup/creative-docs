@@ -31,6 +31,6 @@
 
 ## Governance
 
-* [⚖ Community DAO](governance/community-dao.md)
+* [⚖ Creative Organization](governance/community-dao.md)
 * [👛 CRTVO Tokenomics](governance/tokenomics.md)
 
