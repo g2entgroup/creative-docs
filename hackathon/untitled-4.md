@@ -6,7 +6,7 @@ description: >-
 
 # 🏗 Scaling Hackathon
 
-> [https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S](https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S)
+Showcase: [https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S](https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S)
 
 ## Next Integrations
 
