@@ -11,7 +11,7 @@
 ## Resources
 
 * [📄 Creative Platform WhitePaper](resources/whitepaper.md)
-* [Pitch Deck](resources/pitch-deck.md)
+* [⚾ Pitch Deck](resources/pitch-deck.md)
 
 ## Hackathon
 
