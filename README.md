@@ -119,7 +119,7 @@ We are using Mumbai network \(0.1 ERC20\) which is set up on top of Goerli netwo
 
 The pre-ideation stage started on Feb 16/2021, it started with a draft document that has been edited by the team.
 
-Note: After ideation has been shared with the entire team and each and _**every member understands the core business**_ _**as well**_ as the _**set of functions**_ each individual is _**in charge**_ of _**the project is**_ considered _**kicked-off**_. The [_**discord general chat**_](https://discord.gg/qm3aXqSe) should work as a way for the team members to ask for questions regarding any of the matters of the project overall. For inquiries regarding individual tasks, members should reach out to the scrum master or owner of the project to get further information.
+Note: After ideation has been shared with the entire team and each and _**every member understands the core business**_ _**as well**_ as the _**set of functions**_ each individual is _**in charge**_ of _**the project is**_ considered _**kicked-off**_. The [_**discord general chat**_](https://discord.gg/8B4p7ztWTp) should work as a way for the team members to ask for questions regarding any of the matters of the project overall. For inquiries regarding individual tasks, members should reach out to the scrum master or owner of the project to get further information.
 
 The founding team have drafted a way to bring the product up to reality by determining a clear set of steps to follow. These steps are supposed to be done continuously until the MVP proves to find an audience with a demonstrated intent to use the platform.
 
