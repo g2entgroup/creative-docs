@@ -8,10 +8,10 @@
 * [Business Brain-storming](business-brainstorming.md)
 * [🏎 Roadmap](roadmap.md)
 
-## WhitePaper <a id="whitepaper-1"></a>
+## Resources
 
-* [📄 Creative Platform WhitePaper](whitepaper-1/whitepaper.md)
-* [Pitch Deck](whitepaper-1/pitch-deck.md)
+* [📄 Creative Platform WhitePaper](resources/whitepaper.md)
+* [Pitch Deck](resources/pitch-deck.md)
 
 ## Hackathon
 
