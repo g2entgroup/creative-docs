@@ -6,9 +6,9 @@ The scope of this bounty includes the Creative smart contracts. The determinatio
 
 Payouts will be as follows:
 
-High: $25,000 DAI  
-Medium: $10,000 DAI  
-Low: $1,000 DAI
+High: $25,000 CRTVO  
+Medium: $10,000 CRTVO  
+Low: $1,000 CRTVO
 
 The issue must:
 
