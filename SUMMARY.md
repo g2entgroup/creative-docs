@@ -35,3 +35,7 @@
 * [⚖ Creative Organization](governance/community-dao.md)
 * [👛 CRTVO Tokenomics](governance/crtvo-tokenomics.md)
 
+## Contributing
+
+* [Smart Contract Guidlines](contributing/smart-contract-guidlines.md)
+
