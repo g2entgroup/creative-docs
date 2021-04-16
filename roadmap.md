@@ -8,7 +8,7 @@ description: Here are integrations we have plans to integrate.
 
 We consider reporting and analysis a very important way to measure performance and more importantly improvement. We have considered the following platforms as providers of analytics for the information we deal with:
 
-1. DappQuery
+1. **DappQuery**
    1. Streaming Counts
    2. NFT Valuations
    3. Pool Metrics
