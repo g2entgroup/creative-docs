@@ -1,3 +1,7 @@
+---
+description: Our Custom Prize Strategy
+---
+
 # 🏆 Prize Strategy
 
 There will be two rounds of votes 🗳
