@@ -53,9 +53,8 @@ A financial instrument to finance a community that creates partnerships and busi
 The absence of a platform for creatives to earn a living and progress in value based on their reputation of success.
 
 * **When and how much revenue will it generate?** 
-
-As long as the platform goes into production. It is expected to bring 980 millions CRTV tokens to the market for use of uitliity throughout the platform with an initial valuation of USD 0.1 per token.
-
+  * Once the Creative platform is in production. The community will mint 980 million CRTV tokens to the market for use of uitliity throughout the Creative platform with an initial valuation of USD 0.1 per token.
+  * As a contributing member you can earn CRTVO profit sharing tokens where CRTVO tokens will earn royalties based on usage of the platform + 2% royalty from total mited NFTs on the Creative platform. 
 * **What determines your product’s success and failure?** 
 
 Community acquisition and engagement based on the capital locked into the platform  and usage metrics.
