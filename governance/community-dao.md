@@ -1,3 +1,7 @@
+---
+description: Contributors to the platform can vote for the future of the platform.
+---
+
 # ⚖ Creative Organization
 
 Our community DAO, "Creative Organization" is live and available on [community.xyz](https://community.xyz/#YN7VDKn_JjziC4tTL92K9pO_iMcnMSjk6kgSBr1EPjI).
