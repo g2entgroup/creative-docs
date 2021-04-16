@@ -6,5 +6,5 @@ Additionally, the Creative core team and affiliates has a long term security rel
 
 Notwithstanding, portions of the Creative Protocol codebase will continue to evolve, and **it should never be expected that 100% of the deployed code has been formally audited.**
 
-We encourage responsible disclosure of any vulnerabilities in the smart contracts and will pay up to $20,000 for those.  See the [Bounties](bounties.md) for more details.
+We encourage responsible disclosure of any vulnerabilities in the smart contracts and will pay up to $20,000 in CRTVO for those.  See the [Bounties](bounties.md) for more details.
 
