@@ -12,7 +12,7 @@ Specifically by using Creative you are also taking on the risks of using the Eth
 
 To mitigate this risk the protocol is only integrated with highly reputable and well secured protocols.
 
-**Smart Contract Exploit Risk**
+## **Smart Contract Exploit Risk**
 
 The second type of risk is specific to Creative. The risk is that there could be some sort of bug or exploit in the smart contracts that run the Creative Protocol. This is a risk with any product on Ethereum. Depending on what the bug or exploit is, a nefarious person may be able to take some or all of the funds stored in the Creative Protocol. Here’s what we’ve done to mitigate this risk.
 
