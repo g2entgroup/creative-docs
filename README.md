@@ -92,7 +92,7 @@ The idea behind the requirements is to set aside what the product **must** do, f
 | :--- | :--- | :--- |
 | Project docs setup and lifecycle management | Push notifications | Bonus System |
 | Storage model | Localization | Animation |
-| REST api | Reviews | SMS-notification |
+| REST API | Reviews | SMS-notification |
 | Login & Registration process | Social integration | Tips |
 | User profile & Edit user profile | Traditional Payment integrations \(Stripe\) | Wish list |
 | Campaigns Search filters | Chat & Notifications | User Stats |

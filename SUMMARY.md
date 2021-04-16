@@ -11,6 +11,7 @@
 ## WhitePaper <a id="whitepaper-1"></a>
 
 * [📄 Creative Platform WhitePaper](whitepaper-1/whitepaper.md)
+* [Pitch Deck](whitepaper-1/pitch-deck.md)
 
 ## Hackathon
 
