@@ -408,27 +408,17 @@ After generating upload artifacts from their content nodes, a creative can add t
 
 ‌
 
-Content {
+`Content {`
 
-‌
+`Owner_address`
 
-Owner\_address
+`map(creativeId => ownership)`
 
-‌
+`metadataIPLD‌`
 
-map\(creativeId =&gt; ownership\)
+`… other metadata …`
 
-‌
-
-metadataIPLD
-
-‌
-
-… other metadata …
-
-‌
-
-}
+`}`
 
 ‌
 
@@ -436,23 +426,15 @@ Where the linked metadata could be a JSON file structured along these lines:
 
 ‌
 
-{
+`{`
 
-‌
+`“ContentTitle”: “…”,`
 
-“ContentTitle”: “…”,
+`“segmentIpldLinks”: [“…”, “…”, …],`
 
-‌
+`… other metadata …`
 
-“segmentIpldLinks”: \[“…”, “…”, …\],
-
-‌
-
-… other metadata …
-
-‌
-
-}
+`}`
 
 ‌
 
