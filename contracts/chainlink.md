@@ -7,7 +7,7 @@ description: >-
 
 # 🐥 Chainlink Verification
 
-{% embed url="https://www.youtube.com/watch?v=BdV3zOOZjCo" %}
+{% embed url="https://www.youtube.com/watch?v=BdV3zOOZjCo" caption="Our community dev @Crispymangoes explains how our Chainlink Verification contract works." %}
 
 
 
