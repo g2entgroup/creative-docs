@@ -1,8 +1,12 @@
+---
+description: We are currently hosting community meetings.
+---
+
 # Community Calls
 
-Date/time: Monday, 10am EST and 10pm EST
+Date/time: Mondays, 10am EST and 10pm EST
 
-Attendees: Developers
+Attendees: Community
 
 Rundown:
 
