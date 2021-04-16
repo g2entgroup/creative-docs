@@ -11,7 +11,8 @@ We consider reporting and analysis a very important way to measure performance a
 1. DappQuery
    1. Streaming Counts
    2. NFT Valuations
-   3. Platform Metrics \(🌟 Star Power\)
+   3. Pool Metrics
+   4. Platform Metrics \(🌟 Star Power\)
 
    * _Platform metrics consist of:_
      * _Fan Count_
