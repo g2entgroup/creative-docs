@@ -1,4 +1,12 @@
+---
+description: >-
+  These are implementations that will be put in place during ETHGlobal Scaling
+  Hackathon
+---
+
 # 🏗 Scaling Hackathon
+
+> [https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S](https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S)
 
 ## Next Integrations
 
