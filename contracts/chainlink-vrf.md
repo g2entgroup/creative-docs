@@ -16,7 +16,7 @@ This approach has some benefits in that the operator cannot “lie”: they must
 
 ##  <a id="usage"></a>
 
-To use the [RNGChainlink](https://docs.pooltogether.com/resources/networks) RNG service, create a new prize pool using the service or set it on an existing pool.
+To use the RNGChainlink RNG service, create a new prize pool using the service or set it on an existing pool.
 
 🚨🚨🚨 **Chainlink RNG requires 2 LINK tokens per RNG request** 🚨🚨🚨
 
