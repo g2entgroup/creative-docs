@@ -4,9 +4,9 @@ Our solidity smart contract repo: [Creative-contracts](https://github.com/g2entg
 
 **Yield Sources**
 
-Aave 
+[Aave](https://github.com/g2entgroup/aave-yield-source) 
 
-Sushi
+[Sushi](https://github.com/g2entgroup/sushi-pooltogether)
 
 ## Flowchart
 
