@@ -57,5 +57,3 @@
 * [Audits & Testing](sercurity/audits-and-testing.md)
 * [🎯 Bounties](sercurity/bounties.md)
 
-## Chainlink
-
