@@ -1,4 +1,4 @@
-# 🧧 Sponsorship
+# 🧧 Sponsorships
 
 Brands may "sponsor" the prize pool by depositing funds that don't make them eligible to win.
 
