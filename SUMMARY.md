@@ -27,7 +27,7 @@
 * [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics.md)
 * [🏊🏽‍♂️ PoolTogether](contracts/pooltogether.md)
 * [🏆 Prize Strategy](contracts/prize-strategy.md)
-* [💰 Lootbox](contracts/lootbox.md)
+* [💰 Creative Lootbox](contracts/creative-lootbox.md)
 * [🐥 Chainlink Verification](contracts/chainlink.md)
 
 ## Governance
