@@ -22,6 +22,13 @@
 * [UI Mock Ups](ui/mock-ups.md)
 * [Frontend Stack](ui/frontend.md)
 
+## Networks
+
+* [📡 Contracts](networks/contracts/README.md)
+  * [🛰 Polygon](networks/contracts/polygon.md)
+  * [🛰 Ethereum](networks/contracts/ethereum.md)
+  * [🛰 Binance Smart Chain](networks/contracts/binance-smart-chain.md)
+
 ## Contracts
 
 * [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics/README.md)
@@ -48,11 +55,4 @@
 * [Risks](sercurity/risks.md)
 * [Audits & Testing](sercurity/audits-and-testing.md)
 * [🎯 Bounties](sercurity/bounties.md)
-
-## Networks
-
-* [📡 Contracts](networks/contracts/README.md)
-  * [🛰 Polygon](networks/contracts/polygon.md)
-  * [🛰 Ethereum](networks/contracts/ethereum.md)
-  * [🛰 Binance Smart Chain](networks/contracts/binance-smart-chain.md)
 
