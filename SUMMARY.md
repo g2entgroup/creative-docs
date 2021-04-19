@@ -24,9 +24,11 @@
 
 ## Contracts
 
-* [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics.md)
-* [🎟 Raffle Tickets](contracts/raffle-tickets.md)
-* [🧧 Sponsorships](contracts/sponsorship.md)
+* [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics/README.md)
+  * [🎟 Raffle Tickets](contracts/crtv-tokenomics/raffle-tickets.md)
+  * [🧧 Sponsorships](contracts/crtv-tokenomics/sponsorship.md)
+* [🎲 Random Number Generator](contracts/random-number-generator.md)
+* [🔗 Chainlink VRF](contracts/chainlink-vrf.md)
 * [🏊🏽‍♂️ PoolTogether](contracts/pooltogether.md)
 * [🏆 Prize Strategy](contracts/prize-strategy.md)
 * [💰 Creative Lootbox](contracts/creative-lootbox.md)
