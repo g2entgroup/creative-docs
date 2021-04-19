@@ -34,12 +34,13 @@
 * [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics/README.md)
   * [🎟 Raffle Tickets](contracts/crtv-tokenomics/raffle-tickets.md)
   * [🧧 Sponsorships](contracts/crtv-tokenomics/sponsorship.md)
-* [🎲 Random Number Generator](contracts/random-number-generator/README.md)
-  * [🔗 Chainlink VRF](contracts/random-number-generator/chainlink-vrf.md)
-* [🏊🏽‍♂️ PoolTogether](contracts/pooltogether.md)
-* [🏆 Prize Strategy](contracts/prize-strategy.md)
-* [💰 Creative Lootbox](contracts/creative-lootbox.md)
-* [🐥 Chainlink Verification](contracts/chainlink.md)
+* [🏊🏽‍♂️ PoolTogether](contracts/pooltogether/README.md)
+  * [💰 Creative Lootbox](contracts/pooltogether/creative-lootbox.md)
+  * [🏆 Prize Strategy](contracts/pooltogether/prize-strategy.md)
+* [Chainlink](contracts/chainlink-1/README.md)
+  * [🎲 Random Number Generator](contracts/chainlink-1/random-number-generator/README.md)
+    * [🔗 Chainlink VRF](contracts/chainlink-1/random-number-generator/chainlink-vrf.md)
+  * [🐥 Chainlink Verification](contracts/chainlink-1/chainlink.md)
 
 ## Governance
 
@@ -55,4 +56,6 @@
 * [Risks](sercurity/risks.md)
 * [Audits & Testing](sercurity/audits-and-testing.md)
 * [🎯 Bounties](sercurity/bounties.md)
+
+## Chainlink
 
