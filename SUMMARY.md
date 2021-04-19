@@ -49,3 +49,10 @@
 * [Audits & Testing](sercurity/audits-and-testing.md)
 * [🎯 Bounties](sercurity/bounties.md)
 
+## Networks
+
+* [📡 Contracts](networks/contracts/README.md)
+  * [🛰 Polygon](networks/contracts/polygon.md)
+  * [🛰 Ethereum](networks/contracts/ethereum.md)
+  * [🛰 Binance Smart Chain](networks/contracts/binance-smart-chain.md)
+
