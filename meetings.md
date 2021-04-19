@@ -8,6 +8,8 @@ Date/time: Mondays, 10am EST and 10pm EST
 
 Attendees: Community
 
+Location: [https://discord.gg/jWtAwwQPas](https://discord.gg/jWtAwwQPas)
+
 Rundown:
 
 -What have you worked on?
