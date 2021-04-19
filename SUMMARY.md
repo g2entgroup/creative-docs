@@ -25,6 +25,8 @@
 ## Contracts
 
 * [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics.md)
+* [🎟 Raffle Tickets](contracts/raffle-tickets.md)
+* [🧧 Sponsorship](contracts/sponsorship.md)
 * [🏊🏽‍♂️ PoolTogether](contracts/pooltogether.md)
 * [🏆 Prize Strategy](contracts/prize-strategy.md)
 * [💰 Creative Lootbox](contracts/creative-lootbox.md)
