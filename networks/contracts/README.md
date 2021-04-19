@@ -6,7 +6,7 @@ description: See where Creative contracts are deployed
 
 Creative platform is currently deployed to:
 
-* [Ethereum]()
+* [Ethereum](ethereum.md)
 * [Polygon](polygon.md)
-* Binance Smart Chain
+* [Binance Smart Chain](binance-smart-chain.md)
 
