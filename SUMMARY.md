@@ -3,8 +3,8 @@
 * [Creative Platform Documentation](README.md)
 * [Overview and Quick Start](start.md)
 * [Credentials, integrations, procedures and Blockchain Flowcharts](flowcharts.md)
-* [Community Calls](meetings.md)
 * [Team](team.md)
+* [Community Calls](meetings.md)
 * [Business Brain-storming](business-brainstorming.md)
 * [🏎 Roadmap](roadmap.md)
 
@@ -24,10 +24,10 @@
 
 ## Networks
 
-* [📡 Contracts](networks/contracts/README.md)
-  * [🛰 Polygon](networks/contracts/polygon.md)
-  * [🛰 Ethereum](networks/contracts/ethereum.md)
-  * [🛰 Binance Smart Chain](networks/contracts/binance-smart-chain.md)
+* [📡 Networks](networks/networks/README.md)
+  * [🛰 Polygon](networks/networks/polygon.md)
+  * [🛰 Ethereum](networks/networks/ethereum.md)
+  * [🛰 Binance Smart Chain](networks/networks/binance-smart-chain.md)
 
 ## Contracts
 

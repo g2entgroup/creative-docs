@@ -2,7 +2,7 @@
 description: See where Creative contracts are deployed
 ---
 
-# 📡 Contracts
+# 📡 Networks
 
 Creative platform is currently deployed to:
 
