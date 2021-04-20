@@ -8,13 +8,11 @@ description: >-
 
 ## Security <a id="security"></a>
 
-##  <a id="security"></a>
-
-### Re-entrancy <a id="re-entrancy"></a>
+### Re-entrancy
 
 Any external or public functions need to be analyzed to determine whether the contract can be attacked if a user re-enters that function or another.
 
-### Safe ERC20 Usage <a id="safe-erc20-usage"></a>
+### Safe ERC20 Usage
 
 ERC20 token interactions should always use SafeERC20 safeApprove and safeTransferFrom in the OpenZeppelin library.
 
@@ -28,9 +26,7 @@ The contract should minimize trust in external calls.
 
 ## Conventions <a id="conventions"></a>
 
-##  <a id="conventions"></a>
-
-### Typed Arguments <a id="typed-arguments"></a>
+### Typed Arguments
 
 All arguments, whether to an event or function, must be typed when possible. `address` types should be avoided in favour of contract or interface types
 
@@ -44,9 +40,7 @@ Names and documentation must be spelled correctly with no grammatical errors.
 
 ## Documentation <a id="documentation"></a>
 
-##  <a id="documentation"></a>
-
-### Readme <a id="readme"></a>
+### ReadMe
 
 A complete readme must be included with the project. It needs:
 
@@ -77,9 +71,7 @@ Events must have \(at minimum\):
 
 ## Testing <a id="testing"></a>
 
-##  <a id="testing"></a>
-
-### Code Coverage <a id="code-coverage"></a>
+### Code Coverage
 
 * Coverage must exceed 95%
 * A coverage tag must be included in the README
@@ -95,8 +87,6 @@ Events must have \(at minimum\):
 * A fork test script tests the contracts in the real world
 
 ## Optimizations <a id="optimizations"></a>
-
-##  <a id="optimizations"></a>
 
 * All external / public functions should return a value when possible \(to save gas\)
 * Structs must be tightly packed
