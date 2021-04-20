@@ -20,7 +20,7 @@ We consider reporting and analysis a very important way to measure performance a
      * _Brand Reputation Points_
      * _Platform Usage_
 
-## Decentralized marketplace for creators and sponsors
+## Decentralized Marketplace for Creators and Sponsors
 
 We believe crypto advertising is the future for brands and creators alike and an important percentage of third party revenue.
 
