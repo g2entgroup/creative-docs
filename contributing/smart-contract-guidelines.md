@@ -28,7 +28,7 @@ The contract should minimize trust in external calls.
 
 ### Typed Arguments
 
-All arguments, whether to an event or function, must be typed when possible. `address` types should be avoided in favour of contract or interface types
+All arguments, whether to an event or function, must be typed when possible. `address` types should be avoided in favor of contract or interface types
 
 ### Logs Emitted <a id="logs-emitted"></a>
 
