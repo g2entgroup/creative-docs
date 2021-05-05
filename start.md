@@ -8,7 +8,7 @@ description: >-
 
 ## ![\(blue star\)](.gitbook/assets/0%20%282%29.png)Overview and quick start
 
-Use the following information to get awareness of how everything is plugged into the scaffold-eth template we are using to build our Dapp. Follow this [quick start](https://github.com/austintgriffith/scaffold-eth)
+Use the following information to get awareness of how everything is plugged into the Creative Repositories we are using to build our dApp. Follow this [quick start](https://creative.discourse.team/)
 
 ## ![\(blue star\)](.gitbook/assets/1%20%284%29.png)Architecture issues
 
@@ -85,7 +85,7 @@ Use the following information to get awareness of how everything is plugged into
 
 ## ![\(blue star\)](.gitbook/assets/6%20%281%29.png)The architecture
 
-This space describe the main technologies used to build the application
+This space describes the main technologies used to build the application
 
 |  | **Project** | **Description** | **Estimate** | **Documentation** | **Target release date** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
