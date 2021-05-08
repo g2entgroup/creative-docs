@@ -44,55 +44,7 @@ S-Chain Name shapely-tyl
 
 Chain ID 0x4000e5c5faac7
 
-## **Your SKALE Chain Endpoints** 
-
-[http://eth-global-12.skalenodes.com:10067](http://eth-global-12.skalenodes.com:10067)
-
- [http://eth-global-13.skalenodes.com:10067](http://eth-global-13.skalenodes.com:10067) 
-
-[http://eth-global-2.skalenodes.com:10067](http://eth-global-2.skalenodes.com:10067)
-
- [http://eth-global-4.skalenodes.com:10067](http://eth-global-4.skalenodes.com:10067) 
-
-[https://eth-global-12.skalenodes.com:10072](https://eth-global-12.skalenodes.com:10072) 
-
-[https://eth-global-13.skalenodes.com:10072](https://eth-global-13.skalenodes.com:10072) 
-
-[https://eth-global-2.skalenodes.com:10072](https://eth-global-2.skalenodes.com:10072) 
-
-[https://eth-global-4.skalenodes.com:10072](https://eth-global-4.skalenodes.com:10072) 
-
-ws://eth-global-12.skalenodes.com:10066 
-
-ws://eth-global-13.skalenodes.com:10066 
-
-ws://eth-global-2.skalenodes.com:10066 
-
-ws://eth-global-4.skalenodes.com:10066 
-
-wss://eth-global-12.skalenodes.com:10071 
-
-wss://eth-global-13.skalenodes.com:10071 
-
-wss://eth-global-2.skalenodes.com:10071 
-
-wss://eth-global-4.skalenodes.com:10071
-
-Informational URLs 
-
-[http://eth-global-12.skalenodes.com:10073](http://eth-global-12.skalenodes.com:10073)
-
-[http://eth-global-13.skalenodes.com:10073](http://eth-global-13.skalenodes.com:10073) 
-
-[http://eth-global-2.skalenodes.com:10073](http://eth-global-2.skalenodes.com:10073)
-
-[http://eth-global-4.skalenodes.com:10073](http://eth-global-4.skalenodes.com:10073)
-
-Wallet Address 0xE2f8458532bc04705098d23C37E4444B08eaB32b
-
-Private Key 0x4eee36992eae2f2a90adf6008eb192a358853131094721d09957466bff8643a0
-
-‌
+\*\*\*\*
 
 Address designed for development: PENDING.
 
@@ -110,7 +62,7 @@ Diamond Standard \(EIP-2535\): NFTs
 
 Community.xyz \(DAO\)
 
-[Superfluid](https://www.superfluid.finance/) \(for streamed-value\)
+[Superfluid](https://www.superfluid.finance/) \(for streaming-value\)
 
 ## Procedures for MVP
 
