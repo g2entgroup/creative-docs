@@ -1,12 +1,16 @@
 # Credentials, integrations, procedures and Blockchain Flowcharts
 
-Polygon Network (Formerly Matic)
+## Polygon Network \(Formerly Matic\)
 
-The ARKANE API generation was successful, and we already have a key for using their services on Ethereum Staging. 
+The ARKANE API generation was successful, and we already have a key for using their services on Ethereum Staging.
+
+For more information, we can already refer you to our documentation: [https://docs.arkane.network/](https://docs.arkane.network/)
+
+You can also check [Arketype](https://demo-staging.arkane.network/), our reference implementation of the widget and check out this code on [Github](https://github.com/ArkaneNetwork/arketype) to get a head start.
 
 The client-id is: **Creative-Platform.**
 
-‌[**ARKANE WALLET:**](https://docs.arkane.network/widget/) ****
+‌[**ARKANE WALLET**](https://docs.arkane.network/widget/)
 
 For our **staging environment**, please use the following endpoints:
 
@@ -17,6 +21,8 @@ For our **staging environment**, please use the following endpoints:
 **Wallet interface:** [https://staging.arkane.network/](https://staging.arkane.network/)
 
 On Ethereum staging, we use the Rinkeby Ethereum network.
+
+## Ethereum Staging
 
 [**INFURA**](http://infura.io/) **ID** \(on Rinkeby Test network\): xxxxxxxxxxxxxxxx
 
@@ -34,41 +40,57 @@ Production \(localhost\): pk\_live\_xxxxxxxxxxxxxxxx
 
 SKALE Credentials
 
-S-Chain Name
-shapely-tyl
- 
-Chain ID
-0x4000e5c5faac7
- 
-Your SKALE Chain Endpoints
-http://eth-global-12.skalenodes.com:10067
-http://eth-global-13.skalenodes.com:10067
-http://eth-global-2.skalenodes.com:10067
-http://eth-global-4.skalenodes.com:10067
-https://eth-global-12.skalenodes.com:10072
-https://eth-global-13.skalenodes.com:10072
-https://eth-global-2.skalenodes.com:10072
-https://eth-global-4.skalenodes.com:10072
-ws://eth-global-12.skalenodes.com:10066
-ws://eth-global-13.skalenodes.com:10066
-ws://eth-global-2.skalenodes.com:10066
-ws://eth-global-4.skalenodes.com:10066
-wss://eth-global-12.skalenodes.com:10071
-wss://eth-global-13.skalenodes.com:10071
-wss://eth-global-2.skalenodes.com:10071
+S-Chain Name shapely-tyl
+
+Chain ID 0x4000e5c5faac7
+
+## **Your SKALE Chain Endpoints** 
+
+[http://eth-global-12.skalenodes.com:10067](http://eth-global-12.skalenodes.com:10067)
+
+ [http://eth-global-13.skalenodes.com:10067](http://eth-global-13.skalenodes.com:10067) 
+
+[http://eth-global-2.skalenodes.com:10067](http://eth-global-2.skalenodes.com:10067)
+
+ [http://eth-global-4.skalenodes.com:10067](http://eth-global-4.skalenodes.com:10067) 
+
+[https://eth-global-12.skalenodes.com:10072](https://eth-global-12.skalenodes.com:10072) 
+
+[https://eth-global-13.skalenodes.com:10072](https://eth-global-13.skalenodes.com:10072) 
+
+[https://eth-global-2.skalenodes.com:10072](https://eth-global-2.skalenodes.com:10072) 
+
+[https://eth-global-4.skalenodes.com:10072](https://eth-global-4.skalenodes.com:10072) 
+
+ws://eth-global-12.skalenodes.com:10066 
+
+ws://eth-global-13.skalenodes.com:10066 
+
+ws://eth-global-2.skalenodes.com:10066 
+
+ws://eth-global-4.skalenodes.com:10066 
+
+wss://eth-global-12.skalenodes.com:10071 
+
+wss://eth-global-13.skalenodes.com:10071 
+
+wss://eth-global-2.skalenodes.com:10071 
+
 wss://eth-global-4.skalenodes.com:10071
- 
-Informational URLs
-http://eth-global-12.skalenodes.com:10073
-http://eth-global-13.skalenodes.com:10073
-http://eth-global-2.skalenodes.com:10073
-http://eth-global-4.skalenodes.com:10073
- 
-Wallet Address
-0xE2f8458532bc04705098d23C37E4444B08eaB32b
- 
-Private Key
-0x4eee36992eae2f2a90adf6008eb192a358853131094721d09957466bff8643a0
+
+Informational URLs 
+
+[http://eth-global-12.skalenodes.com:10073](http://eth-global-12.skalenodes.com:10073)
+
+[http://eth-global-13.skalenodes.com:10073](http://eth-global-13.skalenodes.com:10073) 
+
+[http://eth-global-2.skalenodes.com:10073](http://eth-global-2.skalenodes.com:10073)
+
+[http://eth-global-4.skalenodes.com:10073](http://eth-global-4.skalenodes.com:10073)
+
+Wallet Address 0xE2f8458532bc04705098d23C37E4444B08eaB32b
+
+Private Key 0x4eee36992eae2f2a90adf6008eb192a358853131094721d09957466bff8643a0
 
 ‌
 
@@ -78,7 +100,7 @@ Chakra & Next.js for UI \([discord channel](https://chakra-ui.com/discord)\)
 
 Polygon \(for off-chain network\)
 
-Chainlink Verification: 
+Chainlink Verification:
 
 The Graph \(api’s integrations\)
 

@@ -73,7 +73,7 @@ At the time of writing, the previous might have been already iterated. For that 
 
 Before we dive into the details of what our MVP does let’s talk about why are we doing it. To address this we make use of the Blockchain Model Canvas. It is a diagram that shows that our business idea is attractive enough for future investors and most importantly the end users.
 
-_**Note: it is highly important that you understand the following diagram because while we can assert general procedures on how we will be doing everything and we set deliverables to reach our goals you will be working on your own most of the time. If you design and code without a purpose and a real understanding of why things are done in a certain way, you will not only feel bound but you will not learn. As a team we want everyone to profit from this project not only in terms of professional growth**_ ![\(blue star\)](.gitbook/assets/5%20%282%29.png)_**but also intellectually**_ ![\(blue star\)](.gitbook/assets/6.png)_**.**_
+_**Note: it is highly important that you understand the following diagram because while we can assert general procedures on how we will be doing everything and we set deliverables to reach our goals you will be working on your own most of the time. If you design and code without a purpose and a real understanding of why things are done in a certain way, you will not only feel bound but you will not learn. As a team we want everyone to profit from this project not only in terms of professional growth**_ ![\(blue star\)](.gitbook/assets/5%20%283%29.png)_**but also intellectually**_ ![\(blue star\)](.gitbook/assets/6%20%282%29.png)_**.**_
 
 The diagram you are about to see will be discussed and iterated accordingly every meeting so if you have doubts around the approach we take towards it don’t hesitate to let us know. Think of it as the road necessary to start the execution of each MVP phase. Here you can see our draft of the **Blockchain Model Canvas**:
 
@@ -158,7 +158,7 @@ The result of this phase is a **working MVP well hosted** and with very accurate
 
 ## Further information
 
-Thank you for reading carefully and contribute to this awesome project ![\(smile\)](.gitbook/assets/14%20%281%29.png). Remember, **we are building the future of entertainment** ![\(blue star\)](.gitbook/assets/15.png).
+Thank you for reading carefully and contribute to this awesome project ![\(smile\)](.gitbook/assets/14%20%281%29%20%281%29.png). Remember, **we are building the future of entertainment** ![\(blue star\)](.gitbook/assets/15.png).
 
 You have reached the end of this documentation! ![\(blue star\)](.gitbook/assets/16.png)
 
