@@ -1,6 +1,10 @@
 # Credentials, integrations, procedures and Blockchain Flowcharts
 
-The ARKANE API generation was successful, and we already have a key for using their services on Ethereum Staging. The client-id is: **Creative-Platform.**
+Polygon Network (Formerly Matic)
+
+The ARKANE API generation was successful, and we already have a key for using their services on Ethereum Staging. 
+
+The client-id is: **Creative-Platform.**
 
 ‌[**ARKANE WALLET:**](https://docs.arkane.network/widget/) ****
 
@@ -28,7 +32,43 @@ Production \(localhost\): pk\_live\_xxxxxxxxxxxxxxxx
 
 [**ETHERSCAN**](https://etherscan.io/) **KEY**: xxxxxxxxxxxxxxxxxxxx
 
+SKALE Credentials
 
+S-Chain Name
+shapely-tyl
+ 
+Chain ID
+0x4000e5c5faac7
+ 
+Your SKALE Chain Endpoints
+http://eth-global-12.skalenodes.com:10067
+http://eth-global-13.skalenodes.com:10067
+http://eth-global-2.skalenodes.com:10067
+http://eth-global-4.skalenodes.com:10067
+https://eth-global-12.skalenodes.com:10072
+https://eth-global-13.skalenodes.com:10072
+https://eth-global-2.skalenodes.com:10072
+https://eth-global-4.skalenodes.com:10072
+ws://eth-global-12.skalenodes.com:10066
+ws://eth-global-13.skalenodes.com:10066
+ws://eth-global-2.skalenodes.com:10066
+ws://eth-global-4.skalenodes.com:10066
+wss://eth-global-12.skalenodes.com:10071
+wss://eth-global-13.skalenodes.com:10071
+wss://eth-global-2.skalenodes.com:10071
+wss://eth-global-4.skalenodes.com:10071
+ 
+Informational URLs
+http://eth-global-12.skalenodes.com:10073
+http://eth-global-13.skalenodes.com:10073
+http://eth-global-2.skalenodes.com:10073
+http://eth-global-4.skalenodes.com:10073
+ 
+Wallet Address
+0xE2f8458532bc04705098d23C37E4444B08eaB32b
+ 
+Private Key
+0x4eee36992eae2f2a90adf6008eb192a358853131094721d09957466bff8643a0
 
 ‌
 
