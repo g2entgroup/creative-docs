@@ -4,19 +4,19 @@ description: We are currently hosting community meetings.
 
 # Community Calls
 
-Date/time: Mondays, 10am EST and 10pm EST
+Date/time: Mondays, 8pm EST
 
 Attendees: Community
 
-Location: [https://discord.gg/jWtAwwQPas](https://discord.gg/jWtAwwQPas)
+Location: [CREATIVE Discord](https://discord.gg/6VSecRd3As)
 
 Rundown:
 
--What have you worked on?
+-What we've worked on?
 
--What are you working on next?
+-What are we working on next?
 
--Any blockers?
+-Any important developments or opprtunities?
 
   
 Comments:
