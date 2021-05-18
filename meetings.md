@@ -12,11 +12,11 @@ Location: [CREATIVE Discord](https://discord.gg/6VSecRd3As)
 
 Rundown:
 
--What we've worked on?
+*What we've worked on?
 
--What are we working on next?
+*What are we working on next?
 
--Any important developments or opprtunities?
+*Any important developments or opprtunities?
 
   
 Comments:
