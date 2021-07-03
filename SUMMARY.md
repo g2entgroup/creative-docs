@@ -31,6 +31,7 @@
 
 ## Contracts
 
+* [Contract Addresses](contracts/contract-addresses.md)
 * [Creative \(CRTV\) Tokens](contracts/crtv-tokenomics/README.md)
   * [🎟 Raffle Tickets](contracts/crtv-tokenomics/raffle-tickets.md)
   * [🧧 Sponsorships](contracts/crtv-tokenomics/sponsorship.md)
