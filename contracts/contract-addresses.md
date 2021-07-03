@@ -14,7 +14,7 @@ description: >-
 
 ### Asset 
 
-\*\*\*\*[**Chainlink \(LINK\)  0x326C977E6efc84E512bB9C30f76E30c160eD06FB**](https://explorer-mumbai.maticvigil.com/address/0x326C977E6efc84E512bB9C30f76E30c160eD06FB/transactions)\*\*\*\*
+\*\*\*\*[**Chainlink Contract \(LINK\)  0x326C977E6efc84E512bB9C30f76E30c160eD06FB**](https://explorer-mumbai.maticvigil.com/address/0x326C977E6efc84E512bB9C30f76E30c160eD06FB/transactions)\*\*\*\*
 
-[**Creative Token \(CRTV\)    0xc59Cd7D4A979373253476dAe531333eE45aEF2f4**](https://explorer-mumbai.maticvigil.com/address/0xc59Cd7D4A979373253476dAe531333eE45aEF2f4/transactions)\*\*\*\*
+[**Creative Token Contract \(CRTV\)    0xc59Cd7D4A979373253476dAe531333eE45aEF2f4**](https://explorer-mumbai.maticvigil.com/address/0xc59Cd7D4A979373253476dAe531333eE45aEF2f4/transactions)\*\*\*\*
 
