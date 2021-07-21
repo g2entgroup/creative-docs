@@ -8,7 +8,7 @@ description: >-
 
 We believe in the future of the creator economy and are introducing a platform to launch a asset NFT for creators and brands to incentivize from NFTs.
 
-[https://www.youtube.com/watch?v=JcJYXfEf7mA](https://www.youtube.com/watch?v=JcJYXfEf7mA)
+{% embed url="https://www.youtube.com/watch?v=JcJYXfEf7mA" caption="A quick intro video to explain whats Creative." %}
 
 ## Description
 
