@@ -6,27 +6,9 @@ description: >-
 
 # Creative Platform Documentation
 
-[Description](./#description)
+We believe in the future of the creator economy and are introducing a platform to launch a asset NFT for creators and brands to incentivize from.
 
-[Assumptions](./#assumptions)
-
-[The Business Model](./#the-business-model)
-
-[Features/Requirements](./#features-requirements)
-
-[Stages](./#stages)
-
-* [1. Execution 🔨](./#1-execution)
-* [2. Review 📏](./#2-review)
-* [3. Iteration 🔧](./#3-iteration)
-
-[Outline and Time Estimation](./#outline-and-time-estimation)
-
-* [1. UX Design](./#1-ux-design)
-* [2. UI Design](./#2-ui-design)
-* [3. Coding](./#3-coding)
-
-[Further Information](./#further-information)
+[https://www.youtube.com/watch?v=JcJYXfEf7mA](https://www.youtube.com/watch?v=JcJYXfEf7mA)
 
 ## Description
 
