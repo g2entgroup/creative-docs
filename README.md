@@ -8,7 +8,7 @@ description: >-
 
 We believe in the future of the creator economy and are introducing a platform to launch a asset NFT for creators and brands to incentivize from NFTs.
 
-{% embed url="https://www.youtube.com/watch?v=JcJYXfEf7mA" caption="A quick intro video to explain whats Creative." %}
+{% embed url="https://www.youtube.com/watch?v=JcJYXfEf7mA" caption="A quick intro video to explain Creative." %}
 
 ## Description
 
@@ -39,7 +39,7 @@ The absence of a platform for creatives to earn a living and progress in value b
   * As a contributing member you can earn CRTVO profit sharing tokens where CRTVO tokens will earn royalties based on usage of the platform + 2% royalty from total minted NFTs on the Creative platform. 
 * **What determines your product’s success and failure?** 
 
-Community acquisition and engagement based on the capital locked into the platform  and usage metrics.
+Community acquisition and engagement based on the capital locked into the platform and usage metrics.
 
 * **When will you deliver it?** 
 
@@ -128,7 +128,7 @@ Key deliverables of this stage are user personas and user journeys helping futur
 
 At this stage, custom design of user-facing parts \(buttons, menus, tabs\) is created. We have designated [Chakra](https://chakra-ui.com/) and [Next.js](https://nextjs.org/) as the UI framework to work with based on the fact that they are optimized for React, it has a great acceptance from the community and last but not least it is well supported for real-time active development.
 
-Note: ****the stage is reasonable only if design is a competitive advantage, otherwise it’s better to use default themes and focus on the MVP functionality.
+Note: _\*\*_the stage is reasonable only if design is a competitive advantage, otherwise it’s better to use default themes and focus on the MVP functionality.
 
 #### 3. Coding
 
