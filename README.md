@@ -12,9 +12,9 @@ We believe in the future of the creator economy and are introducing a platform t
 
 ## Description
 
-In order to come up with a product that is able to attract early adopters, we need to be able to demonstrate that the concept is achievable is terms of technology. For that reason, we will be building a **proof of concept** \(POC\) or better called **prototype**.
+In order to come up with a product that is able to attract early adopters, we need to be able to demonstrate that the concept is achievable is terms of technology. For that reason, we will be built a **proof of concept** \(POC\) or better called **prototype**.
 
-This proof of concept should be able to showcase the core features of the Creative platform and has the main objective of verifying that the idea has the potential in a real-world situation. Basically it aims to determine whether the project is feasible and will function as planned.
+This proof of concept showcases the core features of the Creative platform and has the main objective of verifying that the idea has the potential in a real-world situation. Basically it aims to determine whether the project is feasible and will function as planned.
 
 The POC that encloses this MVP starts with a **design**. In this design the team makes ideation of the **product vision, hypothesis and KPI's** to measure to come up with a lean solution.
 
@@ -35,8 +35,10 @@ A financial instrument to finance a community that creates partnerships and busi
 The absence of a platform for creatives to earn a living and progress in value based on their reputation of success.
 
 * **When and how much revenue will it generate?** 
-  * Once the Creative platform is in production. The community will mint 980 million CRTV tokens to the market for use of uitliity throughout the Creative platform with an initial valuation of USD 0.1 per token.
-  * As a contributing member you can earn CRTVO profit sharing tokens where CRTVO tokens will earn royalties based on usage of the platform + 2% royalty from total minted NFTs on the Creative platform. 
+  * **980 million CRTV**
+    * Once the Creative platform is in production. The community will mint 980 million CRTV tokens to the market for use of uitliity throughout the Creative platform with an initial valuation of USD 0.1 per token.
+  * **200 million CRTVO**
+    * As a contributing member you can earn CRTVO profit sharing tokens where CRTVO tokens will earn royalties based on usage of the platform + 2% royalty from total minted NFTs on the Creative platform.
 * **What determines your product’s success and failure?** 
 
 Community acquisition and engagement based on the capital locked into the platform and usage metrics.
