@@ -5,7 +5,7 @@
 * [Credentials, integrations, procedures and Blockchain Flowcharts](flowcharts.md)
 * [Team](team.md)
 * [Community Calls](meetings.md)
-* [Business Brain-storming](business-brainstorming.md)
+* [Business Brainstorming](business-brainstorming.md)
 * [🏎 Roadmap](roadmap.md)
 
 ## Resources

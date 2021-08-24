@@ -5,7 +5,7 @@ description: >-
   conferences, etc. It also works as a space to
 ---
 
-# Business Brain-storming
+# Business Brainstorming
 
 | Fund | Contact |
 | :--- | :--- |
