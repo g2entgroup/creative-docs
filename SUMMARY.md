@@ -27,7 +27,6 @@
 * [📡 Networks](networks/networks/README.md)
   * [🛰 Polygon](networks/networks/polygon.md)
   * [🛰 Ethereum](networks/networks/ethereum.md)
-  * [🛰 Binance Smart Chain](networks/networks/binance-smart-chain.md)
 
 ## Contracts
 
