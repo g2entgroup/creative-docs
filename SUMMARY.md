@@ -13,11 +13,11 @@
 * [📄 Creative Platform WhitePaper](resources/whitepaper.md)
 * [⚾ Pitch Deck](resources/pitch-deck.md)
 
-## Hackathon
+## Hackathons
 
-* [EthGlobal MarketMake](hackathon/ethglobal-marketmake.md)
-* [🏗 EthGlobal Scaling Hackathon](hackathon/scaling.md)
-* [EthGlobal Hack Money 2021](hackathon/ethglobal-hack-money-2021.md)
+* [EthGlobal MarketMake](hackathons/ethglobal-marketmake.md)
+* [🏗 EthGlobal Scaling Hackathon](hackathons/scaling.md)
+* [EthGlobal Hack Money 2021](hackathons/ethglobal-hack-money-2021.md)
 
 ## UI
 
