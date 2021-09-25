@@ -4,7 +4,7 @@ description: >-
   Hackathon
 ---
 
-# 🏗 Scaling Hackathon
+# 🏗 EthGlobal Scaling Hackathon
 
 Showcase: [https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S](https://hack.ethglobal.co/showcase/creative-platform-recGqgbOvxitddM7S)
 

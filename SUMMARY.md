@@ -15,7 +15,9 @@
 
 ## Hackathon
 
-* [🏗 Scaling Hackathon](hackathon/scaling.md)
+* [EthGlobal MarketMake](hackathon/ethglobal-marketmake.md)
+* [🏗 EthGlobal Scaling Hackathon](hackathon/scaling.md)
+* [EthGlobal Hack Money 2021](hackathon/ethglobal-hack-money-2021.md)
 
 ## UI
 
