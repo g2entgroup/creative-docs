@@ -1,6 +1,7 @@
 ---
 description: >-
-  A gamified blockchain platform for independent creators, fans, and brands to collaborate directly and earn rewards using P2E DeFi incentives.
+  A gamified blockchain platform for independent creators, fans, and brands to
+  collaborate directly and earn rewards using P2E DeFi incentives.
 ---
 
 # Creative Platform Documentation
